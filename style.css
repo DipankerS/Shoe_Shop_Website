@@ -1,4 +1,40 @@
 .second {
-    background-color: #f17610;
+    background-color: #FFF9F4;
     padding-bottom: 10px;
+    height: 600px;
+}
+
+h2 {
+    color: #363958;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+h4 {
+    color: #363958;
+}
+
+h5 {
+    color: #FA804C;
+}
+
+.shoe {
+    background-color: #9899a1;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: rgb(161, 243, 243);
+    height: 520px;
+    box-shadow: 5px 10px #aae8ec;
+}
+
+.last {
+    border-radius: 10px;
+    background-color: rgb(161, 243, 243);
+    margin: 20px;
+    box-shadow: 5px 10px #aae8ec;
+    width: 500px;
 }
